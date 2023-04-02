@@ -1,0 +1,36 @@
+p1{
+    color: ivory;
+    font-size: 48px;
+    font-weight: bold;
+}
+p2{
+    color: ivory;
+    font-size: 24px;
+    font-weight: bold;
+}
+p3{
+    color: ivory;
+    font-size: 18px;
+    font-weight: bold;
+}
+.login{
+    background-color:indianred;
+    height: 600px;
+    border-radius: 15px;
+}
+input{
+    display: block;
+    width: 100%
+}
+.raio{
+    display: inline;
+    width: 10px;
+    margin-bottom:30px;
+}
+form{
+    text-align: left;
+}
+.btn{
+    background-color:lightblue !important;
+    fon
+}
